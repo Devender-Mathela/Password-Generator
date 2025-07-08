@@ -9,6 +9,6 @@ A sleek React-based password generator that lets users create secure, customizab
 - Responsive and minimal UI
 
 ## 🛠️ Technologies Used
-- React (with Hooks)
+- React (with Hooks-useEffect, useState, useRef)
 - Tailwind CSS for styling
 - JavaScript 
